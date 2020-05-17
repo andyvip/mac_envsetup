@@ -1,4 +1,4 @@
-#include "../opt/libelf/include/libelf/gelf.h"
+#include "/usr/local/Cellar/libelf/0.8.13_1/include/libelf/gelf.h"
 #define R_386_NONE 0
 #define R_386_32 1
 #define R_386_PC32 2
